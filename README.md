@@ -9,7 +9,7 @@ Each lab lives in its own folder and contains ALL scripts and the lab-specific i
 - Each lab folder includes:
   - All Python scripts for that lab.
   - A `README.md` describing the lab’s instructions, requirements, how to run the scripts, and any notes.
-
+```
 Example layout:
 Software_Developemt_Capstone/ 
     ├─ Lab1/ 
@@ -30,6 +30,7 @@ Software_Developemt_Capstone/
     └─ ... 
     └─ README.md # This file
 
+```
 ## Conventions
 
 - Python version: 3.10 or newer.
